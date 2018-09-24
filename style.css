@@ -1,4 +1,4 @@
-.no-js #loader {display: none;}
+/*.no-js #loader {display: none;}
 .js #loader{
             display: block;
             position: absolute;
@@ -15,3 +15,4 @@
             z-index: 9999;
             background: url(Preloader_7.gif) center no-repeat #fff;
 }
+*/
