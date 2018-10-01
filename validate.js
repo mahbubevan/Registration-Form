@@ -30,9 +30,9 @@ $(document).ready(function(){
       show.innerHTML = "Phone Number Required";
       e.preventDefault();
     }else{
-        
+
     }
   });
-});
+//});
 
 });
